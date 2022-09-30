@@ -1,0 +1,16 @@
+a {
+	display: inline-block;
+	text-decoration: none;
+	color: #ffc222;
+}
+.btn {
+	padding: 5px;
+	border: 1px solid #000;
+	display: inline-block;
+	border-radius: 15px;
+}
+.btn__b{
+	background-color: #ff2ccc;
+	padding: 10px 20px;
+	border-radius: 10px;
+}
